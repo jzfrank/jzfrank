@@ -12,9 +12,9 @@ Jin = {
       {for_work: [Python, HTML, CSS, Javascript, SQL, MongoDB]},
       {for_school: [C++, R, MATLAB, LaTex]}
       ],
-    frameworks: [Bootstrap, Django, Express],
+    frameworks: [Bootstrap, Django, Express, React],
     interests: [reading, badminton, spicy_food],
-    how_to_reach_me: [zhajin@ethz.ch, frank.jin.zhang@gmail.com]
+    how_to_reach_me: [zhajin@ethz.ch, frankjinzhang@gmail.com]
 }
 ```
 
