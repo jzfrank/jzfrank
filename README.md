@@ -1,18 +1,19 @@
 # Hi there 👋 I'm Jin
 
-I hold a bachelor degree in applied mathematics. Now I am doing my master degree. 
+- BSc in Applied Mathematics
+- MSc in Quantitative Finance
+- Self-taught programmer
 
-I am a self-taught programmer. I am currently pursing a web development job. 
-
+  
 ```
 Jin = {
     pronouns: ["he", "him"],
     preferred_names : ["Jin", "Frank"],
     languages: [
-      {for_work: [Python, HTML, CSS, Javascript, SQL, MongoDB]},
+      {for_work: [Python, HTML, CSS, JavaScript, TypeScript SQL, MongoDB]},
       {for_school: [C++, R, MATLAB, LaTex]}
       ],
-    frameworks: [Bootstrap, Django, Express, React],
+    frameworks: [Bootstrap, Django, Express, React, NextJS],
     interests: [reading, badminton, spicy_food],
     how_to_reach_me: [zhajin@ethz.ch, frankjinzhang@gmail.com]
 }
