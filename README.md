@@ -1,21 +1,24 @@
 # Hi there 👋 I'm Jin
 
-- BSc in Applied Mathematics
-- MSc in Quantitative Finance
-- Self-taught programmer
+- ✍️  BSc in Applied Mathematics
+- 📈  MSc in Quantitative Finance
+- 🧑‍💻 Self-taught programmer
+- 🇨🇭 currently located in Zurich (Switzerland)
 
-  
+
 ```
 Jin = {
     pronouns: ["he", "him"],
     preferred_names : ["Jin", "Frank"],
+    attended_schools: [CUHK(SZ), ETHz, UZH, Udemy],
     languages: [
-      {for_work: [Python, HTML, CSS, JavaScript, TypeScript SQL, MongoDB]},
-      {for_school: [C++, R, MATLAB, LaTex]}
+      {for_work: [Python, JavaScript, TypeScript, C#, Java, SQL, MongoDB]},
+      {for_school: [C++, R, MATLAB, LaTex]},
+      {for_communication: [English, Chinese, ein_bisschen_deutsch]}
       ],
-    frameworks: [Bootstrap, Django, Express, React, NextJS],
-    interests: [reading, badminton, spicy_food],
-    how_to_reach_me: [zhajin@ethz.ch, frankjinzhang@gmail.com]
+    tech_stack: [Bootstrap, Django, Express, React, NextJS, TailwindCSS, Prisma, MySQL],
+    interests: [reading, hiking, badminton, spicy_food],
+    how_to_reach_me: [frankjinzhang@gmail.com, linkedin.com/in/frankjinzhang]
 }
 ```
 
