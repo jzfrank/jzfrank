@@ -3,7 +3,7 @@
 - ✍️  BSc in Applied Mathematics
 - 📈  MSc in Quantitative Finance
 - 🧑‍💻 Self-taught programmer
-- 🇨🇭 currently located in Zurich (Switzerland)
+- 🇨🇭 Currently work in Zurich, CH
 
 
 ```
