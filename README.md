@@ -17,7 +17,7 @@ Jin = {
       {for_communication: [English, Chinese, ein_bisschen_deutsch]}
       ],
     tech_stack: [Bootstrap, Django, Express, React, NextJS, TailwindCSS, Prisma, MySQL],
-    interests: [reading, hiking, badminton, spicy_food],
+    interests: [reading, hiking, badminton, gym, spicy_food],
     how_to_reach_me: [frankjinzhang@gmail.com, linkedin.com/in/frankjinzhang]
 }
 ```
